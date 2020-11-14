@@ -1,6 +1,5 @@
 package com.emysilva.springsecurity.models;
 
-import com.emysilva.springsecurity.models.*;
 import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
